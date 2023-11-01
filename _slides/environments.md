@@ -8,7 +8,6 @@ slides:
   - roomware
   - digital-desk
   - electrocular
-  - google-assistant
   - interactive-whiteboard
   - xerox-liveboard
 ---
